@@ -1,2 +1,2 @@
 # Primeiro Projeto Sobre GitHub
-Primeiro projeto sobre GitHub.
+Desafio sobre GitHub.
